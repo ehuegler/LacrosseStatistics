@@ -1,5 +1,7 @@
 # Lacrosse Statistics
 
+[page](https://ehuegler.github.io/lacrosse_statistics/)
+
 Ideas
  - Looking at predictive power of different lacrosse statistics
  - Just look at the number of games you got wrong during the season
