@@ -1,4 +1,4 @@
-# [Lacrosse Statistics](https://ehuegler.github.io/lacrosse_statistics/)
+# [Lacrosse Statistics](https://ehuegler.github.io/LacrosseStatistics/)
 
 This project takes a look at the predictive power of several college lacrosse ranking systems, including RPI, laxELO, and media poll rankings.
 
